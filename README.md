@@ -2,8 +2,6 @@
 
 Real-time 3D car configurator built with Three.js, focused on mobile performance, adaptive systems, and interactive customization.
 
----
-
 ![PureDrive RT](images/hero.jpg)
 
 ---
@@ -18,20 +16,33 @@ Real-time 3D car configurator built with Three.js, focused on mobile performance
 
 ---
 
+## Performance Proof
+
+![Performance](images/performance.jpg)
+
+Measured directly inside the application using real-time diagnostics:
+
+- Stable ~60 FPS under full scene load  
+- Adaptive rendering system active  
+- Optimized for mid-range mobile devices  
+- Load time ~2 seconds  
+
+---
+
 ## Screenshots
 
 ### Exterior & Visual Quality
-![Shot](images/shot-1.jpg)
-![Shot](images/shot-2.jpg)
+![Front exterior view](images/shot-1.jpg)
+![Rear cinematic view](images/shot-2.jpg)
 
 ### Configurator UI
-![UI](images/ui-1.jpg)
-![UI](images/ui-2.jpg)
+![Configurator interface](images/ui-1.jpg)
+![Real-time customization](images/ui-2.jpg)
 
 ### Materials & Details
-![Details](images/detail-1.jpg)
-![Details](images/detail-2.jpg)
-![Details](images/detail-3.jpg)
+![Car paint reflection detail](images/detail-1.jpg)
+![Rims and materials close-up](images/detail-2.jpg)
+![Interior material detail](images/detail-3.jpg)
 
 ---
 
