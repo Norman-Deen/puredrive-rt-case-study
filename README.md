@@ -1,6 +1,6 @@
 # PureDrive RT — Real-Time Car Configurator
 
-🚧 This project is currently under active development.
+[Live demo](https://puredrive-rt.nourtin.com/) · [Full case study](https://nourtin.com/pages/Subpages/puredrive-rt-webgl-configurator.html)
 
 Real-time 3D car configurator built with Three.js, focused on mobile performance, adaptive systems, and interactive customization.
 
@@ -14,7 +14,7 @@ Real-time 3D car configurator built with Three.js, focused on mobile performance
 - ~2s load time with optimized asset pipeline  
 - Adaptive performance system (dynamic pixel ratio scaling)  
 - Real-time material, rims, glass, and interior customization  
-- Production-ready architecture with modular system design  
+- portfolio architecture with modular system design  
 
 ---
 
@@ -178,7 +178,7 @@ The system is built with a **mobile-first mindset**:
 
 ## Outcome
 
-The result is a **production-ready real-time 3D system** that demonstrates:
+The result is a **portfolio real-time 3D system** that demonstrates:
 
 - Stable performance across devices  
 - Scalable architecture for real-world applications  
@@ -191,3 +191,9 @@ The result is a **production-ready real-time 3D system** that demonstrates:
 
 This repository represents a **case study** of the system architecture and implementation.  
 Source code and assets are not fully included.
+
+## Scope and measurement notes
+
+This repository contains documentation and screenshots, not the complete application source or licensed assets. Performance figures are snapshots from particular test conditions and are not guarantees across devices, networks, cache states, or scene modes. Initial interaction, startup, and fully loaded time describe different milestones.
+
+[Author: Nour Altinawi — Nourtin](https://nourtin.com/)
